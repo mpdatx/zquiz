@@ -310,5 +310,149 @@
     "options": ["Mount Doom", "Death Mountain", "Din's Peak", "Goron Mountain"],
     "answer": 1,
     "difficulty": "easy"
+  },
+  {
+    "question": "What happens if you try to enter Gerudo Town without a disguise?",
+    "options": ["You get attacked", "The guards turn you away", "You get thrown in jail", "Nothing happens"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the Zora prince who helps Link reach Vah Ruta?",
+    "options": ["Sidon", "Bazz", "Ralis", "Muzu"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which ingredient is needed to make an elixir instead of a meal?",
+    "options": ["A mushroom", "A monster part", "A gemstone", "A flower"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What ability does Mipha's Grace provide?",
+    "options": ["A damage boost", "Automatic revival with bonus hearts", "A shield barrier", "Increased speed"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What ability does Daruk's Protection provide?",
+    "options": ["Fire resistance", "An automatic shield that blocks attacks", "Increased attack power", "Earthquake damage to enemies"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What ability does Revali's Gale provide?",
+    "options": ["A wind attack", "An upward wind current for launching into the air", "Faster gliding speed", "Arrows that home in on enemies"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What ability does Urbosa's Fury provide?",
+    "options": ["Sand manipulation", "A lightning strike attack", "A shield of electricity", "Summoning a sandstorm"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the shrine quest where you must follow a Korok through the Lost Woods?",
+    "options": ["The Lost Pilgrimage", "Follow the Light", "The Korok Trials", "Into the Woods"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where is the Master Sword located?",
+    "options": ["Hyrule Castle", "Korok Forest", "Temple of Time", "Forgotten Temple"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many hearts do you need to pull the Master Sword from its pedestal?",
+    "options": ["10", "13", "15", "20"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the Great Deku Tree's location?",
+    "options": ["Lost Woods", "Korok Forest", "Faron Woods", "Minishi Woods"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which stable is closest to Hyrule Castle?",
+    "options": ["Riverside Stable", "Outskirt Stable", "Woodland Stable", "Tabantha Bridge Stable"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the currency used in Breath of the Wild?",
+    "options": ["Gold", "Rupees", "Coins", "Mon"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What color are the most valuable rupees?",
+    "options": ["Silver", "Gold", "Purple", "Red"],
+    "answer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "question": "How much is a silver rupee worth?",
+    "options": ["50", "100", "200", "500"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the horse fairy who can revive dead horses?",
+    "options": ["Cotera", "Malanya", "Kaysa", "Tera"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What happens when you cook during a Blood Moon?",
+    "options": ["Food spoils", "You get a critical cook bonus", "The pot explodes", "Nothing special"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What material is the Hylian Shield made to resist?",
+    "options": ["Fire", "Everything — it has the highest durability", "Magic", "Ancient energy"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where can you find the Hylian Shield?",
+    "options": ["Akkala Citadel", "Hyrule Castle Lockup", "Forgotten Temple", "Lomei Labyrinth"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What do Blupees drop when you hit them?",
+    "options": ["Monster parts", "Rupees", "Korok Seeds", "Gems"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Divine Beast is associated with the Gorons?",
+    "options": ["Vah Ruta", "Vah Rudania", "Vah Medoh", "Vah Naboris"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the ancient Sheikah monk found at the end of each shrine?",
+    "options": ["Each shrine has a uniquely named monk", "Hylia", "Rauru", "They are unnamed"],
+    "answer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What item lets you take pictures and fill the Hyrule Compendium?",
+    "options": ["Sheikah Sensor", "Camera Rune", "Purah Pad", "Pictograph Box"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the sand-dwelling boss in the Gerudo Desert?",
+    "options": ["Molduga", "Molduking", "Stallord", "Twinmold"],
+    "answer": 0,
+    "difficulty": "medium"
   }
 ]
