@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the name of the kingdom where Breath of the Wild takes place?",
+    "options": ["Termina", "Hyrule", "Lorule", "Skyloft"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "How long was Link asleep in the Shrine of Resurrection?",
+    "options": ["10 years", "50 years", "100 years", "1000 years"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the old man Link meets on the Great Plateau?",
+    "options": ["Rauru", "King Rhoam", "Impa", "Kass"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which item do you need to paraglide off the Great Plateau?",
+    "options": ["Deku Leaf", "Sailcloth", "Paraglider", "Loftwing"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of Link's companion who lives inside the Sheikah Slate?",
+    "options": ["Navi", "Fi", "Midna", "There is no companion"],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Divine Beast is associated with the Zora?",
+    "options": ["Vah Rudania", "Vah Ruta", "Vah Medoh", "Vah Naboris"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What material do you need to upgrade the Sheikah Sensor?",
+    "options": ["Ancient Screws", "Ancient Cores", "Ancient Shafts", "Ancient Springs"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the Rito Champion?",
+    "options": ["Teba", "Revali", "Kass", "Harth"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What happens to weapons in Breath of the Wild after extended use?",
+    "options": ["They level up", "They break", "They become unequipped", "They lose damage"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which village is home to the Sheikah and where Impa resides?",
+    "options": ["Hateno Village", "Lurelin Village", "Kakariko Village", "Rito Village"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the Gerudo Champion?",
+    "options": ["Riju", "Urbosa", "Nabooru", "Buliara"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many shrines are there in the base game?",
+    "options": ["100", "120", "136", "150"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of Calamity Ganon's final form fought in Hyrule Field?",
+    "options": ["Ganondorf", "Dark Beast Ganon", "Demise", "Phantom Ganon"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which ability lets Link stop time on an object and build kinetic energy?",
+    "options": ["Magnesis", "Cryonis", "Stasis", "Remote Bomb"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the maximum number of hearts Link can have?",
+    "options": ["20", "24", "28", "30"],
+    "answer": 3,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which DLC pack introduced the Master Cycle Zero?",
+    "options": ["The Master Trials", "The Champions' Ballad", "Both DLC packs", "It's in the base game"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the traveling Rito musician who plays the accordion?",
+    "options": ["Teba", "Revali", "Kass", "Fyson"],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many Korok Seeds are hidden throughout the world?",
+    "options": ["441", "700", "900", "999"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What do you receive for finding all 900 Korok Seeds?",
+    "options": ["Master Sword upgrade", "Hestu's Gift", "An extra heart container", "The Hylian Shield"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which memory is the final one chronologically before the Calamity?",
+    "options": ["Zelda's Awakening", "Despair", "Return of Calamity Ganon", "Slumbering Power"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the dragon that flies around Lanayru region?",
+    "options": ["Dinraal", "Farosh", "Naydra", "Volvagia"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many Champion abilities can Link obtain in the base game?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which tower must you activate first in the game?",
+    "options": ["Dueling Peaks Tower", "Great Plateau Tower", "Central Tower", "Hateno Tower"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the required number of Spirit Orbs to get a Heart Container or Stamina Vessel?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the Trial of the Sword DLC, how many total floors must you complete across all trials?",
+    "options": ["23", "45", "54", "60"],
+    "answer": 2,
+    "difficulty": "hard"
+  }
+]
