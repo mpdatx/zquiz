@@ -304,5 +304,11 @@
     "options": ["Zelda's Awakening", "The Master Sword", "Memories of the Calamity", "Despair"],
     "answer": 3,
     "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the volcano in the Eldin region?",
+    "options": ["Mount Doom", "Death Mountain", "Din's Peak", "Goron Mountain"],
+    "answer": 1,
+    "difficulty": "easy"
   }
 ]
