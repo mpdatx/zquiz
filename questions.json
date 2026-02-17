@@ -148,5 +148,155 @@
     "options": ["23", "45", "54", "60"],
     "answer": 2,
     "difficulty": "hard"
+  },
+  {
+    "question": "What color is the spirit horse you can find near Satori Mountain?",
+    "options": ["White", "Blue-green", "Gold", "Purple"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the Goron Champion?",
+    "options": ["Yunobo", "Daruk", "Bludo", "Darmani"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which race requires Link to disguise himself as a woman to enter their town?",
+    "options": ["Rito", "Zora", "Gerudo", "Sheikah"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the Zora princess who helps Link board Divine Beast Vah Ruta?",
+    "options": ["Ruto", "Mipha", "Sidon", "Laruta"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What element does the Master Sword's beam require to fire?",
+    "options": ["Full stamina", "Full hearts", "A charged attack", "An ancient arrow"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What do you cook by throwing only a single apple into a cooking pot?",
+    "options": ["Apple Pie", "Baked Apple", "Simmered Fruit", "Hot Apple"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which region is home to Death Mountain and the Gorons?",
+    "options": ["Akkala", "Eldin", "Lanayru", "Central Hyrule"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the scientist who runs the Hateno Ancient Tech Lab?",
+    "options": ["Purah", "Robbie", "Symin", "Jerrin"],
+    "answer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What creature appears when you place luminous stones on a certain pedestal at night?",
+    "options": ["A Fairy", "Naydra", "Lord of the Mountain", "A Blupee"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which type of Guardian has legs and chases Link across Hyrule Field?",
+    "options": ["Guardian Scout", "Guardian Stalker", "Guardian Skywatcher", "Guardian Turret"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the large horse that resembles Ganondorf's steed?",
+    "options": ["Epona", "Giant Horse", "Royal Stallion", "Phantom Horse"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where can Link purchase his own house?",
+    "options": ["Kakariko Village", "Tarrey Town", "Hateno Village", "Lurelin Village"],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the town Link can help build from scratch?",
+    "options": ["Tarrey Town", "Lurelin Village", "Riverside Stable Town", "Akkala Citadel"],
+    "answer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which special arrow can instantly defeat a Guardian?",
+    "options": ["Bomb Arrow", "Shock Arrow", "Ancient Arrow", "Ice Arrow"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What weather condition makes metal equipment dangerous to carry?",
+    "options": ["Rain", "Snow", "Thunderstorms", "Sandstorms"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does the Sheikah Slate ability Magnesis allow Link to manipulate?",
+    "options": ["Water", "Metal objects", "Stone blocks", "Enemies"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many recoverable memories are there in the main quest?",
+    "options": ["10", "12", "13", "18"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which fairy fountain is located near Kakariko Village?",
+    "options": ["Cotera", "Kaysa", "Mija", "Tera"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What material do you need to buy the full ancient armor set from the Akkala Tech Lab?",
+    "options": ["Rupees only", "Ancient materials and rupees", "Star Fragments", "Guardian parts only"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the base damage of the Master Sword?",
+    "options": ["20", "30", "40", "60"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which mini-boss is a large stone creature that throws boulders?",
+    "options": ["Hinox", "Lynel", "Stone Talus", "Molduga"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the desert region in the southwest of the map?",
+    "options": ["Gerudo Desert", "Lanayru Desert", "Tabantha Frontier", "Faron Grasslands"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the maximum number of stamina wheels Link can have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which blood moon event causes all defeated enemies to respawn?",
+    "options": ["New Moon", "Blue Moon", "Blood Moon", "Harvest Moon"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the Lynel variant with white mane that is the strongest in the base game?",
+    "options": ["Blue-Maned Lynel", "Red-Maned Lynel", "White-Maned Lynel", "Silver Lynel"],
+    "answer": 3,
+    "difficulty": "hard"
   }
 ]
