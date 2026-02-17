@@ -196,6 +196,7 @@
     <!-- Start screen -->
     <div class="card" id="start-screen">
       <p class="question-text" style="text-align:center;">Select your difficulty filters above, then begin!</p>
+      <p id="start-info" style="text-align:center;color:#888;font-size:0.85rem;margin-bottom:16px;"></p>
       <button class="next-btn" id="start-btn">Start Quiz</button>
     </div>
 
@@ -220,6 +221,7 @@
         <p class="question-text">Quiz Complete!</p>
         <p class="score" id="final-score"></p>
         <p class="message" id="final-message"></p>
+        <p id="remaining-info" class="hidden" style="color:#888;font-size:0.85rem;margin-bottom:16px;"></p>
         <button class="next-btn" id="restart-btn">Play Again</button>
       </div>
     </div>
@@ -230,19 +232,46 @@
     let quiz = [];
     let current = 0;
     let score = 0;
+    const SEEN_KEY = 'zquiz-seen';
 
     const $ = id => document.getElementById(id);
+
+    function getSeenQuestions() {
+      try { return JSON.parse(localStorage.getItem(SEEN_KEY)) || []; }
+      catch { return []; }
+    }
+
+    function markSeen(question) {
+      const seen = getSeenQuestions();
+      if (!seen.includes(question)) {
+        seen.push(question);
+        localStorage.setItem(SEEN_KEY, JSON.stringify(seen));
+      }
+    }
+
+    function resetSeen() {
+      localStorage.removeItem(SEEN_KEY);
+    }
 
     // Load questions
     fetch('questions.json')
       .then(r => r.json())
-      .then(data => { allQuestions = data; })
+      .then(data => { allQuestions = data; updateStartInfo(); })
       .catch(() => { $('start-screen').innerHTML = '<p class="question-text">Failed to load questions.</p>'; });
+
+    function updateStartInfo() {
+      const diffs = getSelectedDifficulties();
+      const filtered = allQuestions.filter(q => diffs.includes(q.difficulty));
+      const seen = getSeenQuestions();
+      const unseen = filtered.filter(q => !seen.includes(q.question)).length;
+      $('start-info').textContent = `${unseen} new question${unseen !== 1 ? 's' : ''} available (${filtered.length} total)`;
+    }
 
     // Filter checkbox styling
     document.querySelectorAll('#filters input').forEach(cb => {
       cb.addEventListener('change', () => {
         cb.nextElementSibling.style.opacity = cb.checked ? '1' : '0.4';
+        if (allQuestions.length) updateStartInfo();
       });
     });
 
@@ -263,7 +292,16 @@
       if (diffs.length === 0) return alert('Select at least one difficulty.');
       const filtered = allQuestions.filter(q => diffs.includes(q.difficulty));
       if (filtered.length === 0) return alert('No questions match your filters.');
-      quiz = shuffle([...filtered]);
+
+      const seen = getSeenQuestions();
+      let unseen = filtered.filter(q => !seen.includes(q.question));
+
+      if (unseen.length === 0) {
+        resetSeen();
+        unseen = [...filtered];
+      }
+
+      quiz = shuffle(unseen);
       current = 0;
       score = 0;
       $('start-screen').classList.add('hidden');
@@ -306,6 +344,7 @@
       });
       if (selected === correct) score++;
       $('score-display').textContent = `Score: ${score}`;
+      markSeen(quiz[current].question);
       $('next-btn').classList.remove('hidden');
     }
 
@@ -330,12 +369,26 @@
       else if (pct >= 40) msg = 'You might want to revisit some memories.';
       else msg = 'Looks like you just woke up from the Shrine of Resurrection.';
       $('final-message').textContent = msg;
+      updateResultsInfo();
+    }
+
+    function updateResultsInfo() {
+      const diffs = getSelectedDifficulties();
+      const filtered = allQuestions.filter(q => diffs.includes(q.difficulty));
+      const seen = getSeenQuestions();
+      const remaining = filtered.filter(q => !seen.includes(q.question)).length;
+      $('remaining-info').textContent = remaining > 0
+        ? `${remaining} unseen question${remaining !== 1 ? 's' : ''} remaining`
+        : 'You\'ve seen all questions! Next round will reset.';
+      $('remaining-info').classList.remove('hidden');
     }
 
     function restart() {
       $('results-screen').classList.add('hidden');
+      $('remaining-info').classList.add('hidden');
       $('filters').classList.remove('hidden');
       $('start-screen').classList.remove('hidden');
+      updateStartInfo();
     }
 
     $('start-btn').addEventListener('click', startQuiz);
