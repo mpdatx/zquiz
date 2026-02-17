@@ -454,5 +454,11 @@
     "options": ["Molduga", "Molduking", "Stallord", "Twinmold"],
     "answer": 0,
     "difficulty": "medium"
+  },
+  {
+    "question": "Where is the Yiga Clan Hideout located?",
+    "options": ["Gerudo Highlands", "Karusa Valley", "East Barrens", "Arbiter's Grounds"],
+    "answer": 1,
+    "difficulty": "medium"
   }
 ]
