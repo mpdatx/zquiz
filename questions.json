@@ -298,5 +298,11 @@
     "options": ["Blue-Maned Lynel", "Red-Maned Lynel", "White-Maned Lynel", "Silver Lynel"],
     "answer": 3,
     "difficulty": "hard"
+  },
+  {
+    "question": "What is the final recovered memory called?",
+    "options": ["Zelda's Awakening", "The Master Sword", "Memories of the Calamity", "Despair"],
+    "answer": 3,
+    "difficulty": "hard"
   }
 ]
