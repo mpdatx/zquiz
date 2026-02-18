@@ -460,5 +460,77 @@
     "options": ["Gerudo Highlands", "Karusa Valley", "Behind the bananas at Costco", "Arbiter's Grounds"],
     "answer": 1,
     "difficulty": "medium"
+  },
+  {
+    "question": "What effect does adding Endura Carrots to a dish provide?",
+    "options": ["Extra hearts", "Extra stamina beyond the normal limit", "Heat resistance", "A five-star Yelp rating"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What food do you get when you cook a single Hearty Durian?",
+    "options": ["Hearty Simmered Fruit", "Hearty Fried Wild Greens", "Hearty Steamed Fruit", "Durian Smoothie"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What special effect does a Hearty meal provide?",
+    "options": ["Temporary attack boost", "Full recovery plus bonus yellow hearts", "Speed increase", "Makes you glow in the dark"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happens if you cook five different ingredients with clashing effects?",
+    "options": ["The effects combine", "The effects cancel out", "The pot explodes", "Link questions his life choices"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which ingredient gives cold resistance when cooked into a dish?",
+    "options": ["Spicy Pepper", "Chillshroom", "Voltfruit", "A warm hug"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the first recipe the Old Man asks Link to cook on the Great Plateau?",
+    "options": ["Meat Skewer", "Spicy Meat and Seafood Fry", "Baked Apple", "Instant ramen"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What do you get if you throw only monster parts into a cooking pot?",
+    "options": ["Dubious Food", "Rock-Hard Food", "Monster Stew", "A restraining order from the pot"],
+    "answer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What happens if you cook a gem like a ruby or sapphire?",
+    "options": ["You get a special elixir", "You get Rock-Hard Food", "Nothing, it won't cook", "Fine jewelry"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which critter is used to make Sneaky Elixirs for stealth?",
+    "options": ["Hot-Footed Frog", "Sunset Firefly", "Tireless Frog", "A very quiet cricket"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What effect does Mighty Cuisine provide?",
+    "options": ["Defense boost", "Attack boost", "Speed boost", "Confidence boost"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What dish can you make by cooking raw meat, Hyrule Bass, and Spicy Pepper together?",
+    "options": ["Meat and Seafood Fry", "Spicy Meat and Seafood Fry", "Fish and Chips", "Pepper Steak"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the result of throwing a single raw steak into a cooking pot?",
+    "options": ["Seared Steak", "Meat Skewer", "Grilled Steak", "Medium rare perfection"],
+    "answer": 0,
+    "difficulty": "medium"
   }
 ]
