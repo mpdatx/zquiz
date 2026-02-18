@@ -392,7 +392,7 @@
   {
     "question": "What color are the most valuable rupees?",
     "options": ["Silver", "Gold", "Purple", "Red"],
-    "answer": 0,
+    "answer": 1,
     "difficulty": "medium"
   },
   {
