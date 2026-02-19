@@ -532,5 +532,155 @@
     "options": ["Seared Steak", "Meat Skewer", "Grilled Steak", "Medium rare perfection"],
     "answer": 0,
     "difficulty": "medium"
+  },
+  {
+    "question": "In the side quest 'A Wife Washed Away', where do you find Mei after she floats downstream?",
+    "options": ["Zora's Domain", "Hylia Island", "Lake Hylia shore", "She's on a raft near Lurelin Village"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What must you do to complete the 'Rushroom Rush!' side quest for Pirou?",
+    "options": ["Cook a Rushroom dish", "Bring him a Rushroom", "Race him to the top of a hill", "Find his lost recipe book"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the 'From the Ground Up' quest, what must every worker's name end with to be recruited for Tarrey Town?",
+    "options": ["-osa", "-son", "-ko", "They just need a good resume"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does the NPC Loone ask you to bring her in the quest 'Guardian Slideshow'?",
+    "options": ["A Guardian weapon", "Pictures of three Guardian types", "An Ancient Core", "Her emotional support Guardian"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the 'Xenoblade Chronicles 2' crossover quest, what item set can you obtain?",
+    "options": ["Shulk's Armor", "Rex's Outfit", "Salvager Set", "A Nintendo Switch"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What do you need to give Kilton to purchase monster-themed gear?",
+    "options": ["Rupees", "Mon", "Monster parts directly", "A loyalty card"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the quest 'The Stolen Heirloom', what was stolen from Impa's house?",
+    "options": ["The Sheikah Slate", "The Thunder Helm", "An Ancient Orb", "Impa's reading glasses"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What creature must you photograph for the 'Leviathan Bones' side quest?",
+    "options": ["Dragon skeletons", "Ancient whale-like skeletons", "Guardian remains", "Dinosaur bones from a past life"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the 'EX Treasure' DLC quests, where do you find hints for the hidden armor locations?",
+    "options": ["From Impa", "From Misko's journal entries", "From Purah's research notes", "From a treasure map in a cereal box"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does the NPC Shamae in Hateno Village ask Link to make for him?",
+    "options": ["A wooden shield", "A balloon using Octo Balloons", "A raft", "A friendship bracelet"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the 'A Gift of Nightshade' quest, who does you deliver Blue Nightshade to?",
+    "options": ["A traveler near Kakariko", "Wabbin at Lovers Pond", "The Great Fairy Cotera", "A very dramatic Sheikah poet"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of Kilton's monster shop?",
+    "options": ["Monster Mart", "Fang and Bone", "The Creepy Crawly", "Monsters R Us"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "In 'The Weapon Connoisseur' quest, what weapon does Nebb first ask you to show him?",
+    "options": ["Traveler's Sword", "Soldier's Broadsword", "Knight's Broadsword", "His dad's lawnmower"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What do you get for completing the 'Balloon Flight' side quest for Shamae?",
+    "options": ["A Korok Seed", "A Star Fragment", "A rupee reward", "Frequent flyer miles"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "In the 'Tools of the Trade' quest, what does Hoz at Akkala Stable ask you to defeat?",
+    "options": ["A Hinox", "A Stone Talus", "A Guardian Stalker", "His crippling self-doubt"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many rupees does it cost to initially buy Link's house in Hateno Village?",
+    "options": ["1,000", "3,000", "5,000", "One mortgage payment"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many bundles of wood do you need to buy Link's house?",
+    "options": ["10", "20", "30", "A whole forest"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the NPC who sells Link the house in Hateno Village?",
+    "options": ["Karson", "Hudson", "Bolson", "A very pushy realtor"],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What construction company does Bolson run?",
+    "options": ["Hateno Construction", "Bolson Construction", "Hyrule Builders Inc.", "Bob the Builder LLC"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What annoying thing does Bolson do after you buy the house?",
+    "options": ["Charges you rent", "Hangs out in front of your house", "Moves in with you", "Leaves bad reviews"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who does Hudson marry at the end of the 'From the Ground Up' quest?",
+    "options": ["Bolson", "Rhondson", "Greyson's daughter", "His work-life balance"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which race is the Goron you recruit for Tarrey Town?",
+    "options": ["He's a Goron blacksmith", "He's a Goron merchant", "He's a Goron gem trader", "He's just a very round man"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where do you find the Gerudo NPC to recruit for Tarrey Town?",
+    "options": ["Gerudo Town", "Kara Kara Bazaar", "Gerudo Canyon Stable", "On a dating app"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What item can you place on the wall mounts inside Link's house?",
+    "options": ["Paintings", "Weapons, bows, and shields", "Trophies", "Motivational posters"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "How much does each home upgrade from Bolson cost?",
+    "options": ["50 rupees", "100 rupees", "200 rupees", "Your firstborn Korok"],
+    "answer": 1,
+    "difficulty": "hard"
   }
 ]
