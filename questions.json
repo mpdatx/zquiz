@@ -660,8 +660,8 @@
     "difficulty": "hard"
   },
   {
-    "question": "Which race is the Goron you recruit for Tarrey Town?",
-    "options": ["He's a Goron blacksmith", "He's a Goron merchant", "He's a Goron gem trader", "He's just a very round man"],
+    "question": "What is the profession of Greyson, the Goron you recruit for Tarrey Town?",
+    "options": ["Blacksmith", "Merchant", "Gem trader", "Professional boulder roller"],
     "answer": 2,
     "difficulty": "hard"
   },
