@@ -682,5 +682,71 @@
     "options": ["50 rupees", "100 rupees", "200 rupees", "Your firstborn Korok"],
     "answer": 1,
     "difficulty": "hard"
+  },
+  {
+    "question": "What weapon must you use to defeat enemies on the Great Plateau at the start of the Champions' Ballad?",
+    "options": ["Master Sword", "One-Hit Obliterator", "Ancient Battle Axe", "A very stern look"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is special about the One-Hit Obliterator?",
+    "options": ["It never breaks", "It kills any enemy in one hit but reduces Link to one quarter heart", "It shoots beams", "It makes enemies apologize"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Revali's portion of the Champions' Ballad, what must you do at the archery camp in the Dronoc's Pass?",
+    "options": ["Defeat a Lynel", "Hit targets while paragliding in the updraft", "Cook a meal for the Rito", "Perform a sick trick shot"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What boss do you fight inside the Illusory Realm for Daruk's Champions' Ballad trial?",
+    "options": ["Fireblight Ganon", "Thunderblight Ganon", "Waterblight Ganon", "A Goron who skipped leg day"],
+    "answer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Blight Ganon is widely considered the hardest boss in the Champions' Ballad Illusory Realm fights?",
+    "options": ["Fireblight Ganon", "Waterblight Ganon", "Windblight Ganon", "Thunderblight Ganon"],
+    "answer": 3,
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Mipha's Champions' Ballad quest, what do you ride down to reach Dagah Keek Shrine?",
+    "options": ["A raft", "An ice block down a waterfall", "A minecart", "A very cooperative fish"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the final dungeon you must complete at the end of the Champions' Ballad DLC?",
+    "options": ["Divine Beast Vah Ruta B", "The Final Trial", "Shrine of Resurrection", "The credits dungeon"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What reward do you get for completing the entire Champions' Ballad questline?",
+    "options": ["An extra heart container", "The Master Cycle Zero", "A fifth Champion ability", "A participation trophy"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Urbosa's Champions' Ballad quest, which shrine requires you to use a sand seal to reach a specific location?",
+    "options": ["Keive Tala Shrine", "Takama Shiri Shrine", "Kihiro Moh Shrine", "The shrine that hates sand"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many new shrines does the Champions' Ballad DLC add in total?",
+    "options": ["8", "12", "16", "20"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What do the monument pedestals in the Champions' Ballad require you to do to reveal shrine locations?",
+    "options": ["Solve a riddle", "Place a specific item on them", "Shoot them with an arrow", "Say please"],
+    "answer": 0,
+    "difficulty": "medium"
   }
 ]
