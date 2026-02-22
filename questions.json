@@ -7,19 +7,19 @@
   },
   {
     "question": "How long was Link asleep in the Shrine of Resurrection?",
-    "options": ["10 years", "Just hit snooze once", "100 years", "1000 years"],
+    "options": ["10 years", "50 years", "100 years", "1000 years"],
     "answer": 2,
     "difficulty": "easy"
   },
   {
     "question": "What is the name of the old man Link meets on the Great Plateau?",
-    "options": ["Rauru", "King Rhoam", "Some guy selling essential oils", "Kass"],
+    "options": ["Rauru", "King Rhoam", "Impa", "Kass"],
     "answer": 1,
     "difficulty": "easy"
   },
   {
     "question": "Which item do you need to paraglide off the Great Plateau?",
-    "options": ["Deku Leaf", "A really big umbrella", "Paraglider", "Loftwing"],
+    "options": ["Deku Leaf", "Sailcloth", "Paraglider", "Loftwing"],
     "answer": 2,
     "difficulty": "easy"
   },
@@ -31,25 +31,25 @@
   },
   {
     "question": "Which Divine Beast is associated with the Zora?",
-    "options": ["Vah Rudania", "Vah Ruta", "Vah Medoh", "Vah Honda Civic"],
+    "options": ["Vah Rudania", "Vah Ruta", "Vah Medoh", "Vah Naboris"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What material do you need to upgrade the Sheikah Sensor?",
-    "options": ["Ancient Screws", "Ancient Cores", "Ancient Shafts", "Ancient Vibes"],
+    "options": ["Ancient Screws", "Ancient Cores", "Ancient Shafts", "Ancient Springs"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "Who is the Rito Champion?",
-    "options": ["Teba", "Revali", "Big Bird", "Harth"],
+    "options": ["Teba", "Revali", "Kaneli", "Harth"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What happens to weapons in Breath of the Wild after extended use?",
-    "options": ["They level up", "They break", "They file a complaint", "They lose damage"],
+    "options": ["They level up", "They break", "They become unequipped", "They lose damage"],
     "answer": 1,
     "difficulty": "easy"
   },
@@ -61,25 +61,25 @@
   },
   {
     "question": "What is the name of the Gerudo Champion?",
-    "options": ["Riju", "Urbosa", "Beyonc\u00e9", "Buliara"],
+    "options": ["Riju", "Urbosa", "Nabooru", "Buliara"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "How many shrines are there in the base game?",
-    "options": ["100", "120", "Too many", "150"],
+    "options": ["100", "120", "136", "150"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What is the name of Calamity Ganon's final form fought in Hyrule Field?",
-    "options": ["Ganondorf", "Dark Beast Ganon", "Demise", "Big Angry Pig"],
+    "options": ["Ganondorf", "Dark Beast Ganon", "Demise", "Calamity Ganon"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "Which ability lets Link stop time on an object and build kinetic energy?",
-    "options": ["Magnesis", "Cryonis", "Stasis", "Asking it politely to stop"],
+    "options": ["Magnesis", "Cryonis", "Stasis", "Remote Bombs"],
     "answer": 2,
     "difficulty": "easy"
   },
@@ -97,19 +97,19 @@
   },
   {
     "question": "What is the name of the traveling Rito musician who plays the accordion?",
-    "options": ["Teba", "Weird Al Yankovic", "Kass", "Fyson"],
+    "options": ["Teba", "Medli", "Kass", "Fyson"],
     "answer": 2,
     "difficulty": "medium"
   },
   {
     "question": "How many Korok Seeds are hidden throughout the world?",
-    "options": ["441", "700", "900", "Not enough"],
+    "options": ["441", "700", "900", "1000"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "What do you receive for finding all 900 Korok Seeds?",
-    "options": ["Master Sword upgrade", "Hestu's Gift", "A golden toilet", "The Hylian Shield"],
+    "options": ["Master Sword upgrade", "Hestu's Gift", "An ancient weapon", "The Hylian Shield"],
     "answer": 1,
     "difficulty": "hard"
   },
@@ -121,37 +121,37 @@
   },
   {
     "question": "What is the name of the dragon that flies around Lanayru region?",
-    "options": ["Dinraal", "Farosh", "Naydra", "Puff the Magic Dragon"],
+    "options": ["Dinraal", "Farosh", "Naydra", "Valoo"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "How many Champion abilities can Link obtain in the base game?",
-    "options": ["3", "4", "5", "Over 9000"],
+    "options": ["3", "4", "5", "6"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "Which tower must you activate first in the game?",
-    "options": ["Dueling Peaks Tower", "Great Plateau Tower", "Cell Tower", "Hateno Tower"],
+    "options": ["Dueling Peaks Tower", "Great Plateau Tower", "Akkala Tower", "Hateno Tower"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What is the required number of Spirit Orbs to get a Heart Container or Stamina Vessel?",
-    "options": ["2", "3", "4", "Just ask nicely"],
+    "options": ["2", "3", "4", "5"],
     "answer": 2,
     "difficulty": "easy"
   },
   {
     "question": "In the Trial of the Sword DLC, how many total floors must you complete across all trials?",
-    "options": ["23", "45", "54", "Infinite, you're trapped forever"],
+    "options": ["23", "45", "54", "36"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "What color is the spirit horse you can find near Satori Mountain?",
-    "options": ["White", "Blue-green", "Plaid", "Purple"],
+    "options": ["White", "Blue-green", "Golden", "Purple"],
     "answer": 1,
     "difficulty": "medium"
   },
@@ -163,19 +163,19 @@
   },
   {
     "question": "Which race requires Link to disguise himself as a woman to enter their town?",
-    "options": ["Rito", "Zora", "Gerudo", "The HOA"],
+    "options": ["Rito", "Zora", "Gerudo", "Goron"],
     "answer": 2,
     "difficulty": "easy"
   },
   {
     "question": "What is the name of the Zora Champion who piloted Divine Beast Vah Ruta?",
-    "options": ["Ruto", "Mipha", "Sidon", "Aquaman"],
+    "options": ["Ruto", "Mipha", "Sidon", "Dorephan"],
     "answer": 1,
     "difficulty": "easy"
   },
   {
     "question": "What element does the Master Sword's beam require to fire?",
-    "options": ["Full stamina", "Full hearts", "A charged attack", "A good Wi-Fi connection"],
+    "options": ["Full stamina", "Full hearts", "A charged attack", "A specific sword"],
     "answer": 1,
     "difficulty": "easy"
   },
@@ -187,7 +187,7 @@
   },
   {
     "question": "Which region is home to Death Mountain and the Gorons?",
-    "options": ["Akkala", "Eldin", "Lanayru", "Flavor Town"],
+    "options": ["Akkala", "Eldin", "Lanayru", "Hebra"],
     "answer": 1,
     "difficulty": "easy"
   },
@@ -199,19 +199,19 @@
   },
   {
     "question": "What creature appears when you place luminous stones on a certain pedestal at night?",
-    "options": ["A Fairy", "A pizza delivery guy", "Lord of the Mountain", "A Blupee"],
+    "options": ["A Fairy", "A Hinox", "Lord of the Mountain", "A Blupee"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "Which type of Guardian has legs and chases Link across Hyrule Field?",
-    "options": ["Guardian Scout", "Guardian Stalker", "Guardian Skywatcher", "Guardian of the Galaxy"],
+    "options": ["Guardian Scout", "Guardian Stalker", "Guardian Skywatcher", "Guardian Turret"],
     "answer": 1,
     "difficulty": "easy"
   },
   {
     "question": "What is the name of the large horse that resembles Ganondorf's steed?",
-    "options": ["Epona", "Giant Horse", "Royal Stallion", "Absolute Unit Horse"],
+    "options": ["Epona", "Giant Horse", "Royal Stallion", "Storm"],
     "answer": 1,
     "difficulty": "medium"
   },
@@ -223,55 +223,55 @@
   },
   {
     "question": "What is the name of the town Link can help build from scratch?",
-    "options": ["Tarrey Town", "Lurelin Village", "Minecraft Village", "Akkala Citadel"],
+    "options": ["Tarrey Town", "Lurelin Village", "Riverside Town", "Akkala Citadel"],
     "answer": 0,
     "difficulty": "medium"
   },
   {
     "question": "Which special arrow can instantly defeat a Guardian?",
-    "options": ["Bomb Arrow", "Shock Arrow", "Ancient Arrow", "Nerf Arrow"],
+    "options": ["Bomb Arrow", "Shock Arrow", "Ancient Arrow", "Fire Arrow"],
     "answer": 2,
     "difficulty": "easy"
   },
   {
     "question": "What weather condition makes metal equipment dangerous to carry?",
-    "options": ["Rain", "A light drizzle of compliments", "Thunderstorms", "Sandstorms"],
+    "options": ["Rain", "Snow", "Thunderstorms", "Sandstorms"],
     "answer": 2,
     "difficulty": "easy"
   },
   {
     "question": "What does the Sheikah Slate ability Magnesis allow Link to manipulate?",
-    "options": ["Water", "Metal objects", "Stone blocks", "The stock market"],
+    "options": ["Water", "Metal objects", "Stone blocks", "Wooden objects"],
     "answer": 1,
     "difficulty": "easy"
   },
   {
     "question": "How many recoverable memories are there in the main quest?",
-    "options": ["10", "12", "13", "Link forgot"],
+    "options": ["10", "12", "13", "18"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "Which fairy fountain is located near Kakariko Village?",
-    "options": ["Cotera", "Kaysa", "Mija", "Ye Olde Fountain Shoppe"],
+    "options": ["Cotera", "Kaysa", "Mija", "Tera"],
     "answer": 0,
     "difficulty": "hard"
   },
   {
     "question": "What material do you need to buy the full ancient armor set from the Akkala Tech Lab?",
-    "options": ["Rupees only", "Ancient materials and rupees", "Star Fragments", "A valid credit card"],
+    "options": ["Rupees only", "Ancient materials and rupees", "Star Fragments", "Gems and rupees"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What is the base damage of the Master Sword?",
-    "options": ["20", "30", "40", "It depends on its mood"],
+    "options": ["20", "30", "40", "50"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "Which mini-boss is a large stone creature that throws boulders?",
-    "options": ["Hinox", "Lynel", "Stone Talus", "Dwayne 'The Rock' Johnson"],
+    "options": ["Hinox", "Lynel", "Stone Talus", "Molduga"],
     "answer": 2,
     "difficulty": "easy"
   },
@@ -283,13 +283,13 @@
   },
   {
     "question": "What is the maximum number of stamina wheels Link can have?",
-    "options": ["2", "3", "4", "However many Red Bulls he drinks"],
+    "options": ["2", "3", "4", "5"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "Which blood moon event causes all defeated enemies to respawn?",
-    "options": ["New Moon", "Blue Moon", "Blood Moon", "Full Moon (they're werewolves)"],
+    "options": ["New Moon", "Blue Moon", "Blood Moon", "Super Moon"],
     "answer": 2,
     "difficulty": "easy"
   },
@@ -301,7 +301,7 @@
   },
   {
     "question": "What is the final recovered memory called?",
-    "options": ["Zelda's Awakening", "The Master Sword", "Where Did I Park My Horse", "Despair"],
+    "options": ["Zelda's Awakening", "The Master Sword", "Slumbering Power", "Despair"],
     "answer": 3,
     "difficulty": "hard"
   },
@@ -313,13 +313,13 @@
   },
   {
     "question": "What happens if you try to enter Gerudo Town without a disguise?",
-    "options": ["You get attacked", "The guards turn you away", "You get thrown in jail", "They check your ID"],
+    "options": ["You get attacked", "The guards turn you away", "You get thrown in jail", "You get arrested"],
     "answer": 1,
     "difficulty": "easy"
   },
   {
     "question": "What is the name of the Zora prince who helps Link reach Vah Ruta?",
-    "options": ["Sidon", "Bazz", "Ralis", "Prince Charming"],
+    "options": ["Sidon", "Bazz", "Ralis", "Laflat"],
     "answer": 0,
     "difficulty": "easy"
   },
@@ -331,13 +331,13 @@
   },
   {
     "question": "What ability does Mipha's Grace provide?",
-    "options": ["A damage boost", "Automatic revival with bonus hearts", "A shield barrier", "Free healthcare"],
+    "options": ["A damage boost", "Automatic revival with bonus hearts", "A shield barrier", "A speed boost"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What ability does Daruk's Protection provide?",
-    "options": ["Fire resistance", "An automatic shield that blocks attacks", "Increased attack power", "A stern talking-to for enemies"],
+    "options": ["Fire resistance", "An automatic shield that blocks attacks", "Increased attack power", "A ground-pound shockwave"],
     "answer": 1,
     "difficulty": "medium"
   },
@@ -349,19 +349,19 @@
   },
   {
     "question": "What ability does Urbosa's Fury provide?",
-    "options": ["Sand manipulation", "A lightning strike attack", "A shield of electricity", "An angry Yelp review"],
+    "options": ["Sand manipulation", "A lightning strike attack", "A shield of electricity", "A fire attack"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What is the name of the shrine quest where you must follow a Korok through the Lost Woods?",
-    "options": ["The Lost Pilgrimage", "Follow the Light", "The Korok Trials", "Are We There Yet?"],
+    "options": ["The Lost Pilgrimage", "Follow the Light", "The Korok Trials", "Shrouded Shrine"],
     "answer": 0,
     "difficulty": "hard"
   },
   {
     "question": "Where is the Master Sword located?",
-    "options": ["Hyrule Castle", "Korok Forest", "Temple of Time", "IKEA"],
+    "options": ["Hyrule Castle", "Korok Forest", "Temple of Time", "Great Plateau"],
     "answer": 1,
     "difficulty": "easy"
   },
@@ -373,37 +373,37 @@
   },
   {
     "question": "What is the name of the Great Deku Tree's location?",
-    "options": ["Lost Woods", "Korok Forest", "Faron Woods", "Groot's House"],
+    "options": ["Lost Woods", "Korok Forest", "Faron Woods", "Thyphlo Ruins"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "Which stable is closest to Hyrule Castle?",
-    "options": ["Riverside Stable", "Outskirt Stable", "Woodland Stable", "The castle parking garage"],
+    "options": ["Riverside Stable", "Outskirt Stable", "Woodland Stable", "Tabantha Bridge Stable"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "What is the currency used in Breath of the Wild?",
-    "options": ["Gold", "Rupees", "Dogecoin", "Mon"],
+    "options": ["Gold", "Rupees", "Gil", "Mon"],
     "answer": 1,
     "difficulty": "easy"
   },
   {
     "question": "What color are the most valuable rupees?",
-    "options": ["Silver", "Gold", "Purple", "Sparkly rainbow"],
+    "options": ["Silver", "Gold", "Purple", "Platinum"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "How much is a silver rupee worth?",
-    "options": ["50", "100", "200", "About tree fiddy"],
+    "options": ["50", "100", "200", "500"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "What is the name of the horse fairy who can revive dead horses?",
-    "options": ["Cotera", "Malanya", "Kaysa", "The horse whisperer"],
+    "options": ["Cotera", "Malanya", "Kaysa", "Tera"],
     "answer": 1,
     "difficulty": "hard"
   },
@@ -415,19 +415,19 @@
   },
   {
     "question": "What material is the Hylian Shield made to resist?",
-    "options": ["Fire", "Everything \u2014 it has the highest durability", "Constructive criticism", "Ancient energy"],
+    "options": ["Fire", "Everything \u2014 it has the highest durability", "Guardian beams", "Ancient energy"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "Where can you find the Hylian Shield?",
-    "options": ["Akkala Citadel", "Hyrule Castle Lockup", "Forgotten Temple", "Amazon Prime"],
+    "options": ["Akkala Citadel", "Hyrule Castle Lockup", "Forgotten Temple", "Akkala Citadel"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What do Blupees drop when you hit them?",
-    "options": ["Monster parts", "Rupees", "Their car keys", "Gems"],
+    "options": ["Monster parts", "Rupees", "Luminous Stones", "Gems"],
     "answer": 1,
     "difficulty": "easy"
   },
@@ -439,13 +439,13 @@
   },
   {
     "question": "What is the name of the ancient Sheikah monk found at the end of each shrine?",
-    "options": ["Each shrine has a uniquely named monk", "Hylia", "Rauru", "Bob"],
+    "options": ["Each shrine has a uniquely named monk", "Hylia", "Rauru", "Sheik"],
     "answer": 0,
     "difficulty": "medium"
   },
   {
     "question": "What item lets you take pictures and fill the Hyrule Compendium?",
-    "options": ["Sheikah Sensor", "Camera Rune", "Disposable camera from 2003", "Pictograph Box"],
+    "options": ["Sheikah Sensor", "Camera Rune", "Sheikah Scope", "Pictograph Box"],
     "answer": 1,
     "difficulty": "easy"
   },
@@ -457,13 +457,13 @@
   },
   {
     "question": "Where is the Yiga Clan Hideout located?",
-    "options": ["Gerudo Highlands", "Karusa Valley", "Behind the bananas at Costco", "Arbiter's Grounds"],
+    "options": ["Gerudo Highlands", "Karusa Valley", "Gerudo Highlands", "Arbiter's Grounds"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What effect does adding Endura Carrots to a dish provide?",
-    "options": ["Extra hearts", "Extra stamina beyond the normal limit", "Heat resistance", "A five-star Yelp rating"],
+    "options": ["Extra hearts", "Extra stamina beyond the normal limit", "Heat resistance", "Temporary speed boost"],
     "answer": 1,
     "difficulty": "medium"
   },
@@ -475,19 +475,19 @@
   },
   {
     "question": "What special effect does a Hearty meal provide?",
-    "options": ["Temporary attack boost", "Full recovery plus bonus yellow hearts", "Speed increase", "Makes you glow in the dark"],
+    "options": ["Temporary attack boost", "Full recovery plus bonus yellow hearts", "Speed increase", "Temporary defense boost"],
     "answer": 1,
     "difficulty": "easy"
   },
   {
     "question": "What happens if you cook five different ingredients with clashing effects?",
-    "options": ["The effects combine", "The effects cancel out", "The pot explodes", "Link questions his life choices"],
+    "options": ["The effects combine", "The effects cancel out", "The pot explodes", "You get Dubious Food"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "Which ingredient gives cold resistance when cooked into a dish?",
-    "options": ["Spicy Pepper", "Chillshroom", "Voltfruit", "A warm hug"],
+    "options": ["Spicy Pepper", "Chillshroom", "Voltfruit", "Hylian Herb"],
     "answer": 0,
     "difficulty": "easy"
   },
@@ -499,7 +499,7 @@
   },
   {
     "question": "What do you get if you throw only monster parts into a cooking pot?",
-    "options": ["Dubious Food", "Rock-Hard Food", "Monster Stew", "A restraining order from the pot"],
+    "options": ["Dubious Food", "Rock-Hard Food", "Monster Stew", "Failed Experiment"],
     "answer": 0,
     "difficulty": "medium"
   },
@@ -511,7 +511,7 @@
   },
   {
     "question": "Which critter is used to make Sneaky Elixirs for stealth?",
-    "options": ["Hot-Footed Frog", "Sunset Firefly", "Tireless Frog", "A very quiet cricket"],
+    "options": ["Hot-Footed Frog", "Sunset Firefly", "Tireless Frog", "Restless Cricket"],
     "answer": 1,
     "difficulty": "hard"
   },
@@ -529,7 +529,7 @@
   },
   {
     "question": "What is the result of throwing a single raw steak into a cooking pot?",
-    "options": ["Seared Steak", "Meat Skewer", "Grilled Steak", "Medium rare perfection"],
+    "options": ["Seared Steak", "Meat Skewer", "Grilled Steak", "Roasted Steak"],
     "answer": 0,
     "difficulty": "medium"
   },
@@ -547,37 +547,37 @@
   },
   {
     "question": "In the 'From the Ground Up' quest, what must every worker's name end with to be recruited for Tarrey Town?",
-    "options": ["-osa", "-son", "-ko", "They just need a good resume"],
+    "options": ["-osa", "-son", "-ko", "-ton"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "What does the NPC Loone ask you to bring her in the quest 'Guardian Slideshow'?",
-    "options": ["A Guardian weapon", "Pictures of three Guardian types", "An Ancient Core", "Her emotional support Guardian"],
+    "options": ["A Guardian weapon", "Pictures of three Guardian types", "An Ancient Core", "A Guardian Core"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "In the 'Xenoblade Chronicles 2' crossover quest, what item set can you obtain?",
-    "options": ["Shulk's Armor", "Rex's Outfit", "Salvager Set", "A Nintendo Switch"],
+    "options": ["Shulk's Armor", "Rex's Outfit", "Salvager Set", "Xenoblade Armor"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "What do you need to give Kilton to purchase monster-themed gear?",
-    "options": ["Rupees", "Mon", "Monster parts directly", "A loyalty card"],
+    "options": ["Rupees", "Mon", "Monster parts directly", "Ancient parts"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "In the quest 'The Stolen Heirloom', what was stolen from Impa's house?",
-    "options": ["The Sheikah Slate", "The Thunder Helm", "An Ancient Orb", "Impa's reading glasses"],
+    "options": ["The Sheikah Slate", "The Thunder Helm", "An Ancient Orb", "The Sheikah Heirloom"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "What creature must you photograph for the 'Leviathan Bones' side quest?",
-    "options": ["Dragon skeletons", "Ancient whale-like skeletons", "Guardian remains", "Dinosaur bones from a past life"],
+    "options": ["Dragon skeletons", "Ancient whale-like skeletons", "Guardian remains", "Stone Talus remains"],
     "answer": 1,
     "difficulty": "hard"
   },
@@ -589,49 +589,49 @@
   },
   {
     "question": "What does the NPC Shamae in Hateno Village ask Link to make for him?",
-    "options": ["A wooden shield", "A balloon using Octo Balloons", "A raft", "A friendship bracelet"],
+    "options": ["A wooden shield", "A balloon using Octo Balloons", "A raft", "A kite"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "In the 'A Gift of Nightshade' quest, who does you deliver Blue Nightshade to?",
-    "options": ["A traveler near Kakariko", "Wabbin at Lovers Pond", "The Great Fairy Cotera", "A very dramatic Sheikah poet"],
+    "options": ["A traveler near Kakariko", "Wabbin at Lovers Pond", "The Great Fairy Cotera", "Lasli in Kakariko Village"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "What is the name of Kilton's monster shop?",
-    "options": ["Monster Mart", "Fang and Bone", "The Creepy Crawly", "Monsters R Us"],
+    "options": ["Monster Mart", "Fang and Bone", "The Creepy Crawly", "The Dark Emporium"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "In 'The Weapon Connoisseur' quest, what weapon does Nebb first ask you to show him?",
-    "options": ["Traveler's Sword", "Soldier's Broadsword", "Knight's Broadsword", "His dad's lawnmower"],
+    "options": ["Traveler's Sword", "Soldier's Broadsword", "Knight's Broadsword", "A Lynel Sword"],
     "answer": 0,
     "difficulty": "hard"
   },
   {
     "question": "What do you get for completing the 'Balloon Flight' side quest for Shamae?",
-    "options": ["A Korok Seed", "A Star Fragment", "A rupee reward", "Frequent flyer miles"],
+    "options": ["A Korok Seed", "A Star Fragment", "A rupee reward", "A Star Fragment"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "In the 'Tools of the Trade' quest, what does Hoz at Akkala Stable ask you to defeat?",
-    "options": ["A Hinox", "A Stone Talus", "A Guardian Stalker", "His crippling self-doubt"],
+    "options": ["A Hinox", "A Stone Talus", "A Guardian Stalker", "A Bokoblin"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "How many rupees does it cost to initially buy Link's house in Hateno Village?",
-    "options": ["1,000", "3,000", "5,000", "One mortgage payment"],
+    "options": ["1,000", "3,000", "5,000", "10,000"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "How many bundles of wood do you need to buy Link's house?",
-    "options": ["10", "20", "30", "A whole forest"],
+    "options": ["10", "20", "30", "50"],
     "answer": 2,
     "difficulty": "hard"
   },
@@ -643,67 +643,67 @@
   },
   {
     "question": "What construction company does Bolson run?",
-    "options": ["Hateno Construction", "Bolson Construction", "Hyrule Builders Inc.", "Bob the Builder LLC"],
+    "options": ["Hateno Construction", "Bolson Construction", "Hyrule Builders Inc.", "Hyrule Builders"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What annoying thing does Bolson do after you buy the house?",
-    "options": ["Charges you rent", "Hangs out in front of your house", "Moves in with you", "Leaves bad reviews"],
+    "options": ["Charges you rent", "Hangs out in front of your house", "Moves in with you", "Keeps trying to sell you upgrades"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "Who does Hudson marry at the end of the 'From the Ground Up' quest?",
-    "options": ["Bolson", "Rhondson", "Greyson's daughter", "His work-life balance"],
+    "options": ["Bolson", "Rhondson", "Greyson's daughter", "Karson"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "What is the profession of Greyson, the Goron you recruit for Tarrey Town?",
-    "options": ["Blacksmith", "Merchant", "Gem trader", "Professional boulder roller"],
+    "options": ["Blacksmith", "Merchant", "Gem trader", "Cook"],
     "answer": 2,
     "difficulty": "hard"
   },
   {
     "question": "Where do you find the Gerudo NPC to recruit for Tarrey Town?",
-    "options": ["Gerudo Town", "Kara Kara Bazaar", "Gerudo Canyon Stable", "On a dating app"],
+    "options": ["Gerudo Town", "Kara Kara Bazaar", "Gerudo Canyon Stable", "Gerudo Canyon Stable"],
     "answer": 0,
     "difficulty": "hard"
   },
   {
     "question": "What item can you place on the wall mounts inside Link's house?",
-    "options": ["Paintings", "Weapons, bows, and shields", "Trophies", "Motivational posters"],
+    "options": ["Paintings", "Weapons, bows, and shields", "Trophies", "Armor sets"],
     "answer": 1,
     "difficulty": "easy"
   },
   {
     "question": "How much does each home upgrade from Bolson cost?",
-    "options": ["50 rupees", "100 rupees", "200 rupees", "Your firstborn Korok"],
+    "options": ["50 rupees", "100 rupees", "200 rupees", "500 rupees"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "What weapon must you use to defeat enemies on the Great Plateau at the start of the Champions' Ballad?",
-    "options": ["Master Sword", "One-Hit Obliterator", "Ancient Battle Axe", "A very stern look"],
+    "options": ["Master Sword", "One-Hit Obliterator", "Ancient Battle Axe", "Great Eagle Bow"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What is special about the One-Hit Obliterator?",
-    "options": ["It never breaks", "It kills any enemy in one hit but reduces Link to one quarter heart", "It shoots beams", "It makes enemies apologize"],
+    "options": ["It never breaks", "It kills any enemy in one hit but reduces Link to one quarter heart", "It shoots beams", "It has infinite durability"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "In Revali's portion of the Champions' Ballad, what must you do at the archery camp in the Dronoc's Pass?",
-    "options": ["Defeat a Lynel", "Hit targets while paragliding in the updraft", "Cook a meal for the Rito", "Perform a sick trick shot"],
+    "options": ["Defeat a Lynel", "Hit targets while paragliding in the updraft", "Cook a meal for the Rito", "Complete a timed obstacle course"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "What boss do you fight inside the Illusory Realm for Daruk's Champions' Ballad trial?",
-    "options": ["Fireblight Ganon", "Thunderblight Ganon", "Waterblight Ganon", "A Goron who skipped leg day"],
+    "options": ["Fireblight Ganon", "Thunderblight Ganon", "Waterblight Ganon", "Waterblight Ganon"],
     "answer": 0,
     "difficulty": "medium"
   },
@@ -715,25 +715,25 @@
   },
   {
     "question": "In Mipha's Champions' Ballad quest, what do you ride down to reach Dagah Keek Shrine?",
-    "options": ["A raft", "An ice block down a waterfall", "A minecart", "A very cooperative fish"],
+    "options": ["A raft", "An ice block down a waterfall", "A minecart", "A shield"],
     "answer": 1,
     "difficulty": "hard"
   },
   {
     "question": "What is the final dungeon you must complete at the end of the Champions' Ballad DLC?",
-    "options": ["Divine Beast Vah Ruta B", "The Final Trial", "Shrine of Resurrection", "The credits dungeon"],
+    "options": ["Divine Beast Vah Ruta B", "The Final Trial", "Shrine of Resurrection", "Divine Beast Vah Hylia"],
     "answer": 1,
     "difficulty": "medium"
   },
   {
     "question": "What reward do you get for completing the entire Champions' Ballad questline?",
-    "options": ["An extra heart container", "The Master Cycle Zero", "A fifth Champion ability", "A participation trophy"],
+    "options": ["An extra heart container", "The Master Cycle Zero", "A fifth Champion ability", "Ancient Saddle and Bridle"],
     "answer": 1,
     "difficulty": "easy"
   },
   {
     "question": "In Urbosa's Champions' Ballad quest, which shrine requires you to use a sand seal to reach a specific location?",
-    "options": ["Keive Tala Shrine", "Takama Shiri Shrine", "Kihiro Moh Shrine", "The shrine that hates sand"],
+    "options": ["Keive Tala Shrine", "Takama Shiri Shrine", "Kihiro Moh Shrine", "Suma Sahma Shrine"],
     "answer": 0,
     "difficulty": "hard"
   },
@@ -745,8 +745,98 @@
   },
   {
     "question": "What do the monument pedestals in the Champions' Ballad require you to do to reveal shrine locations?",
-    "options": ["Solve a riddle", "Place a specific item on them", "Shoot them with an arrow", "Say please"],
+    "options": ["Solve a riddle", "Place a specific item on them", "Shoot them with an arrow", "Defeat nearby enemies"],
     "answer": 0,
     "difficulty": "medium"
+  },
+  {
+    "question": "What do Koroks say when you find them?",
+    "options": ["Surprise!", "Ya ha ha! You found me!", "Boo!", "Hey! Listen!"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the leader of the Koroks?",
+    "options": ["Hestu", "The Great Deku Tree", "Makar", "Chio"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does Hestu use to expand your inventory?",
+    "options": ["Rupees", "Spirit Orbs", "Korok Seeds", "Mon"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What instrument does Hestu play?",
+    "options": ["Drums", "Ocarina", "Maracas", "Accordion"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where do you first encounter Hestu on the road?",
+    "options": ["Near Kakariko Village", "On the Great Plateau", "Outside Hateno Village", "In Korok Forest"],
+    "answer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Hestu's Gift, the reward for collecting all 900 Korok Seeds?",
+    "options": ["A golden Korok Seed", "An unbreakable weapon", "A golden piece of poop", "The Master Sword"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What common puzzle type involves placing a rock in a gap to complete a circle?",
+    "options": ["A Shrine Quest", "A Korok puzzle", "A Sheikah puzzle", "A Goddess Statue offering"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happens if you lift the rock a Korok is hiding under and drop it on them?",
+    "options": ["They get angry and attack", "They make a hurt sound", "Nothing happens", "They give you a bonus seed"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of these is NOT a way to reveal a hidden Korok?",
+    "options": ["Lifting a rock", "Completing a leaf pinwheel challenge", "Playing a song on an ocarina", "Diving into a circle of lily pads"],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What type of trees do Koroks live in within Korok Forest?",
+    "options": ["Cherry blossom trees", "Inside the Great Deku Tree", "Birch trees", "Hylian pines"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many Korok Seeds does Hestu need before he stops upgrading your inventory completely?",
+    "options": ["100", "441", "900", "250"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What do Koroks wear on their faces?",
+    "options": ["Tiny Sheikah masks", "Leaf masks", "Bokoblin masks", "Wooden helmets"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What puzzle involves shooting balloons that appear near pinwheels?",
+    "options": ["Shrine quest", "Korok balloon challenge", "Mini-game", "Archery training"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the Korok Trials, which trial requires you to follow a Korok without being seen?",
+    "options": ["The Lost Pilgrimage", "Trial of Second Sight", "The Test of Wood", "The Korok's Challenge"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What material are the Korok Leaf and Korok Seed items associated with?",
+    "options": ["Metal", "Wood and nature", "Ancient technology", "Stone"],
+    "answer": 1,
+    "difficulty": "easy"
   }
 ]

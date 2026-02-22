@@ -62,6 +62,24 @@
     .badge-medium { background: #6a4c2d; color: #e4d5b7; }
     .badge-hard   { background: #6a2d2d; color: #e4b7b7; }
 
+    .sound-toggle {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 24px;
+    }
+    .sound-toggle label {
+      cursor: pointer;
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      background: #2a2a4a;
+      color: #aaa;
+      transition: opacity 0.2s;
+    }
+    .sound-toggle input { display: none; }
+    .sound-toggle input:not(:checked) + span { opacity: 0.4; }
+
     /* Progress bar */
     .progress-bar {
       height: 6px;
@@ -190,6 +208,13 @@
       </label>
       <label class="badge-hard">
         <input type="checkbox" value="hard" checked><span>Hard</span>
+      </label>
+    </div>
+
+    <!-- Sound toggle -->
+    <div class="sound-toggle" id="sound-toggle">
+      <label>
+        <input type="checkbox" id="sound-enabled" checked><span>Sound</span>
       </label>
     </div>
 
@@ -335,6 +360,9 @@
       });
     }
 
+    const korokSound = new Audio('korok.mp3');
+    const korokHurt = new Audio('korok-wrong.mp3');
+
     function selectAnswer(selected, correct) {
       const buttons = document.querySelectorAll('.option-btn');
       buttons.forEach((btn, i) => {
@@ -342,7 +370,13 @@
         if (i === correct) btn.classList.add('correct');
         if (i === selected && selected !== correct) btn.classList.add('wrong');
       });
-      if (selected === correct) score++;
+      const soundOn = $('sound-enabled').checked;
+      if (selected === correct) {
+        score++;
+        if (soundOn) { korokSound.currentTime = 0; korokSound.play(); }
+      } else {
+        if (soundOn) { korokHurt.currentTime = 0; korokHurt.play(); }
+      }
       $('score-display').textContent = `Score: ${score}`;
       markSeen(quiz[current].question);
       $('next-btn').classList.remove('hidden');
