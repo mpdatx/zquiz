@@ -421,7 +421,7 @@
   },
   {
     "question": "Where can you find the Hylian Shield?",
-    "options": ["Akkala Citadel", "Hyrule Castle Lockup", "Forgotten Temple", "Akkala Citadel"],
+    "options": ["Akkala Citadel", "Hyrule Castle Lockup", "Forgotten Temple", "Hyrule Castle Sanctum"],
     "answer": 1,
     "difficulty": "medium"
   },
@@ -457,7 +457,7 @@
   },
   {
     "question": "Where is the Yiga Clan Hideout located?",
-    "options": ["Gerudo Highlands", "Karusa Valley", "Gerudo Highlands", "Arbiter's Grounds"],
+    "options": ["Gerudo Canyon", "Karusa Valley", "Gerudo Highlands", "Arbiter's Grounds"],
     "answer": 1,
     "difficulty": "medium"
   },
@@ -613,7 +613,7 @@
   },
   {
     "question": "What do you get for completing the 'Balloon Flight' side quest for Shamae?",
-    "options": ["A Korok Seed", "A Star Fragment", "A rupee reward", "A Star Fragment"],
+    "options": ["A Korok Seed", "A Star Fragment", "A rupee reward", "An Octo Balloon"],
     "answer": 2,
     "difficulty": "hard"
   },
@@ -667,8 +667,8 @@
   },
   {
     "question": "Where do you find the Gerudo NPC to recruit for Tarrey Town?",
-    "options": ["Gerudo Town", "Kara Kara Bazaar", "Gerudo Canyon Stable", "Gerudo Canyon Stable"],
-    "answer": 0,
+    "options": ["Gerudo Town", "Kara Kara Bazaar", "Gerudo Canyon Stable", "Lurelin Village"],
+    "answer": 1,
     "difficulty": "hard"
   },
   {
@@ -703,7 +703,7 @@
   },
   {
     "question": "What boss do you fight inside the Illusory Realm for Daruk's Champions' Ballad trial?",
-    "options": ["Fireblight Ganon", "Thunderblight Ganon", "Waterblight Ganon", "Waterblight Ganon"],
+    "options": ["Fireblight Ganon", "Thunderblight Ganon", "Waterblight Ganon", "Windblight Ganon"],
     "answer": 0,
     "difficulty": "medium"
   },
@@ -838,5 +838,89 @@
     "options": ["Metal", "Wood and nature", "Ancient technology", "Stone"],
     "answer": 1,
     "difficulty": "easy"
+  },
+  {
+    "question": "What type of item does Beedle obsessively want to trade for?",
+    "options": ["Mighty Bananas", "Energetic Rhino Beetles", "Star Fragments", "Hearty Lizards"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does Beedle carry on his back?",
+    "options": ["A wooden barrel", "A giant beetle-shaped backpack", "A Sheikah chest", "A cooking pot"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "When does Kilton's Fang and Bone shop appear?",
+    "options": ["Only during a Blood Moon", "Near towns at night", "Only in Akkala", "During thunderstorms"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does the Gerudo Secret Club sell?",
+    "options": ["Ancient weapons", "The Radiant armor set", "Desert Voe armor", "Gerudo jewelry"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the password to enter the Gerudo Secret Club?",
+    "options": ["G-S-C Diamond", "Urbosa's Honor", "Sav'orq", "Thunder and Lightning"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "In 'The Thunder Helm' quest, how many side quests must you complete for Riju?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What ingredient does Koko need in the quest 'Koko's Kitchen'?",
+    "options": ["Goron Spice", "Tabantha Wheat", "Fresh Milk", "Hylian Rice"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "In 'A Parent's Love,' what ingredient does Koko need to complete her late mother's recipe?",
+    "options": ["Swift Carrot", "Goron Spice", "Courser Bee Honey", "Fresh Milk"],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What must you bring to the Akkala Ancient Tech Lab to activate it?",
+    "options": ["An Ancient Core", "Blue flame from a nearby furnace", "A lit torch", "A Guardian part"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the quest 'Sunshroom Sensing,' who asks you to bring them a Sunshroom?",
+    "options": ["Purah", "Symin", "Robbie", "Beedle"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What favorite food do Yiga Clan members drop when defeated?",
+    "options": ["Hearty Durians", "Mighty Bananas", "Endura Carrots", "Fortified Pumpkins"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the quest 'Misko, the Great Bandit,' what are you searching for?",
+    "options": ["A legendary weapon", "Hidden treasure", "A stolen artifact", "An ancient map"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does the Rito shopkeeper Fyson sell after moving to Tarrey Town?",
+    "options": ["Feathered weapons", "Arrows of all types", "Rito armor", "Flight potions"],
+    "answer": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many Great Fairy Fountains are there in the game?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 1,
+    "difficulty": "medium"
   }
 ]
