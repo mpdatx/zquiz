@@ -360,8 +360,26 @@
       });
     }
 
-    const korokSound = new Audio('korok.mp3');
-    const korokHurt = new Audio('korok-wrong.mp3');
+    const correctSounds = [
+      new Audio('korok.mp3'),
+      new Audio('korok-yahaha.mp3'),
+      new Audio('korok-yahahah.mp3'),
+      new Audio('korok-riddle.mp3'),
+      new Audio('korok-appears.mp3'),
+      new Audio('korok-found.mp3')
+    ];
+    const wrongSounds = [
+      new Audio('korok-wrong.mp3'),
+      new Audio('korok-hurt2.mp3'),
+      new Audio('korok-runaway1.mp3'),
+      new Audio('korok-runaway2.mp3')
+    ];
+
+    function playRandom(sounds) {
+      const s = sounds[Math.floor(Math.random() * sounds.length)];
+      s.currentTime = 0;
+      s.play();
+    }
 
     function selectAnswer(selected, correct) {
       const buttons = document.querySelectorAll('.option-btn');
@@ -373,9 +391,9 @@
       const soundOn = $('sound-enabled').checked;
       if (selected === correct) {
         score++;
-        if (soundOn) { korokSound.currentTime = 0; korokSound.play(); }
+        if (soundOn) playRandom(correctSounds);
       } else {
-        if (soundOn) { korokHurt.currentTime = 0; korokHurt.play(); }
+        if (soundOn) playRandom(wrongSounds);
       }
       $('score-display').textContent = `Score: ${score}`;
       markSeen(quiz[current].question);
