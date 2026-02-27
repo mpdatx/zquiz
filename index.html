@@ -191,6 +191,21 @@
     }
 
     .hidden { display: none; }
+
+    /* Korok slide-in animation */
+    #korok {
+      position: fixed;
+      z-index: 1000;
+      width: 120px;
+      pointer-events: none;
+      transition: transform 0.35s ease-out;
+    }
+    #korok.from-left   { bottom: 10%; left: 0;   transform: translateX(-100%); }
+    #korok.from-right  { bottom: 10%; right: 0;   transform: translateX(100%); }
+    #korok.from-bottom { bottom: 0;   left: 50%;  transform: translate(-50%, 100%); }
+    #korok.from-left.active   { transform: translateX(20px); }
+    #korok.from-right.active  { transform: translateX(-20px); }
+    #korok.from-bottom.active { transform: translate(-50%, -10px); }
   </style>
 </head>
 <body>
@@ -251,6 +266,8 @@
       </div>
     </div>
   </div>
+
+  <img id="korok" src="" alt="">
 
   <script>
     let allQuestions = [];
@@ -381,6 +398,33 @@
       s.play();
     }
 
+    let korokTimeout = null;
+    const directions = ['from-left', 'from-right', 'from-bottom'];
+
+    function showKorok(type) {
+      const el = $('korok');
+      // Clear any pending animation
+      if (korokTimeout) { clearTimeout(korokTimeout); korokTimeout = null; }
+      el.className = '';
+      el.src = type === 'happy' ? 'korok-happy.png' : 'korok-sad.png';
+
+      const dir = directions[Math.floor(Math.random() * directions.length)];
+      // Reset position off-screen first
+      el.offsetHeight; // force reflow
+      el.classList.add(dir);
+
+      // Slide in
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => { el.classList.add('active'); });
+      });
+
+      // Slide out after 1.5s
+      korokTimeout = setTimeout(() => {
+        el.classList.remove('active');
+        korokTimeout = setTimeout(() => { el.className = ''; }, 400);
+      }, 1500);
+    }
+
     function selectAnswer(selected, correct) {
       const buttons = document.querySelectorAll('.option-btn');
       buttons.forEach((btn, i) => {
@@ -392,8 +436,10 @@
       if (selected === correct) {
         score++;
         if (soundOn) playRandom(correctSounds);
+        showKorok('happy');
       } else {
         if (soundOn) playRandom(wrongSounds);
+        showKorok('sad');
       }
       $('score-display').textContent = `Score: ${score}`;
       markSeen(quiz[current].question);
